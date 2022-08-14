@@ -1433,3 +1433,24 @@ img {
 }
 
 
+
+@media screen and (min-width: 1910px) {
+
+  .nav {
+    margin-left: 29rem;
+  }
+
+}
+
+
+
+
+@media screen and (min-width: 2550px) {
+
+  .nav {
+    margin-left: 50rem;
+  }
+
+}
+
+
